@@ -8,7 +8,11 @@
             <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Scanner.java</file>
             <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/tool/GenerateAst.java</file>
             <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/AstPrinter.java</file>
+            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/TokenType.java</file>
             <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Expr.java</file>
+            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Interpreter.java</file>
+            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Parser.java</file>
+            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/RuntimeError.java</file>
         </group>
     </open-files>
 </project-private>
