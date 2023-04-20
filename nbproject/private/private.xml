@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Token.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Lox.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Scanner.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/tool/GenerateAst.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/AstPrinter.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/TokenType.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Expr.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Interpreter.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/Parser.java</file>
-            <file>file:/C:/Cursos/Java/Fundamentos/Lox/src/com/craftinginterpreters/lox/RuntimeError.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
