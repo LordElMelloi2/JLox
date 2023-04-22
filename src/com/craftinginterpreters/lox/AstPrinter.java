@@ -3,6 +3,11 @@ package com.craftinginterpreters.lox;
 class AstPrinter implements Expr.Visitor<String> {
 
     @Override
+    public String visitLogicalExpr(Expr.Logical expr) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
     public String visitAssignExpr(Expr.Assign assign) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
